@@ -205,6 +205,14 @@ button#diagnosaBtn:active {
   }
 }
 
+#gejalaContainer {
+  margin: 0px 15%;
+}
+
+#penyakitContainer {
+  margin: 0px 50px 100px;
+}
+
 /* Animation for results */
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(20px); }
